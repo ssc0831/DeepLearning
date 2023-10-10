@@ -35,3 +35,5 @@
 - train.py로 만든 model.pth를 content로 이동 시키기
 - mnist_classifier 폴더 생성 trainer.py utils.py 이동
 - 하위 폴더로 models 폴더 생성 cnn.py fc.py 이동
+
+#### trainer.py는 안 넣어도 잘 되는 듯 함.
