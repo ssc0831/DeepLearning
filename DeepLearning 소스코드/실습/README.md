@@ -36,4 +36,5 @@
 - mnist_classifier 폴더 생성 trainer.py utils.py 이동
 - 하위 폴더로 models 폴더 생성 cnn.py fc.py 이동
 
-#### trainer.py는 안 넣어도 잘 되는 듯 함.
+### trainer.py는 안 넣어도 잘 되는 듯 함.
+### data\MNIST\raw는 MNIST 데이터 세트를 의미
